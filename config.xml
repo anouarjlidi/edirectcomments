@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>edirectcomments</name>
+	<displayName><![CDATA[eDirect Comment]]></displayName>
+	<version><![CDATA[0.4]]></version>
+	<description><![CDATA[Module pour commenter produit.]]></description>
+	<author><![CDATA[Fabien Serny]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
