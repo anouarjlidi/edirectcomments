@@ -54,6 +54,7 @@ class EdirectComments extends Module
 			return false;
 		Configuration::deleteByName('EDIRECT_GRADES');
 		Configuration::deleteByName('EDIRECT_COMMENTS');
+		die;
 		return true;
 	}
 
