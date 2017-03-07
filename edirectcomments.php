@@ -84,7 +84,7 @@ class EdirectComments extends Module
 		$tab->class_name = $class_name;
 		$tab->module = $this->name;
 		$tab->active = 1;
-		echo 'rrr';
+		echo 'rrr  ';
 		return $tab->add();
 	}
 
